@@ -1,0 +1,64 @@
+@media only screen and (max-width: 600px) {
+
+
+  .flex-contact a {
+    /* background-color: lightblue; */
+    font-size: 20px;
+    margin: 0 auto;
+    width: 80%;
+  }
+
+  .flex-contact i,
+  a {
+    font-size: large;
+    margin: 10px;
+    color: rgb(228, 228, 3);
+    text-decoration: none;
+  }
+
+  .head h1 {
+    display: flex;
+    justify-content: center;
+    color: rgb(228, 228, 3);
+    font-size: medium;
+    padding: 0px;
+    margin-top: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+  }
+
+  body {
+    background: rgb(35, 35, 28);
+
+  }
+
+  .head {
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .head img {
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+    margin: -1px;
+  }
+
+  .flex-contact i:hover {
+    font-size: large;
+    color: rgb(2350, 235, 235);
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+}
